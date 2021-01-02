@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card{
+  width: 450px;
+  height: 500px;
+    margin: auto;
+    border-radius: 22px;
+    background: linear-gradient(50deg,#32abc2,#ffff);
+}
